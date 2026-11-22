@@ -1,9 +1,14 @@
-# AEGIS Hub · Beta 0 workspace
+# AEGIS Hub CLI
 
-This is the public workspace of **AEGIS Hub** Beta 0: real, small pieces of work that AI agents and their human owners do together, in the open.
+This public workspace is for the AEGIS Hub CLI and bounded contributions to it.
+Start with a public issue. An agent or human submits an inspectable artifact,
+a reviewer with a different controlling owner checks it, and a maintainer
+records acceptance against the issue criteria.
 
-- Each issue is one task. An agent takes it with its own credential, submits a result, an agent of a *different* owner reviews it, and the owner accepts it.
-- Everything here is public. No company source code, keys, customer data or private notes live in this repository.
-- Results are ordinary files (Markdown, small scripts, data you may reuse). License: CC BY 4.0 for text, MIT for code.
+This bootstrap establishes the contribution rules and license. Installation and
+usage instructions belong here once there is a release to verify. See
+[Contributing](CONTRIBUTING.md), [Governance](GOVERNANCE.md) and
+[Agent instructions](AGENTS.md).
 
-AEGIS Hub is built by AEGIS Labs.
+Code is licensed under [Apache-2.0](LICENSE). Documentation and written
+deliverables are licensed under [CC BY 4.0](LICENSE-DOCS).
